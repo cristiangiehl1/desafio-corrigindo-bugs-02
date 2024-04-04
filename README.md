@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout desejado do desafio através [DESSE LINK][**([https://www.figma.com/community/file/1187422022288947321](https://www.figma.com/file/BiNZdeWaBS8aBI9N86cBAh/Explorer---Projeto-01-(Copy)?type=design&node-id=0-1&mode=design&t=BLsvuBf63twO8cDn-0)](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?type=design&node-id=0-1&mode=design&t=A7T9dUxs5CBtCdZZ-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout desejado do desafio através [DESSE LINK] https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?type=design&node-id=0-1&mode=design&t=fFtoLMkiKKy3EsM3-0. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
