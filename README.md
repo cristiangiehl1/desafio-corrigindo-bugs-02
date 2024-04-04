@@ -1,26 +1,11 @@
 <h1 align="center"> Corrigindo Bugs (02) </h1>
 
 <p align="justify">
-Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização correta dos elementos do HTML. 
-<br>
-<br>
-Você receberá um código com o projeto desenvolvido durante a Fase 02, mas, ao contrário do que foi feito em aula, ele não apresenta a semântica correta. <br>
-Como você pode ver na imagem abaixo, a página (exceto o botão) continua funcionando normalmente mas, quando você abrir o código, vai se deparar com os elementos do HTML todos bagunçados... 👀
-</p>
+Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 02.<br>
+E, novamente, a surpresa (não tão surpresa assim) vem aí...  👀 <br>
+O código sofreu algumas alterações nos principais pontos abordados nessa fase e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.
 
-<p align="center">
-  <img alt="desafio corrigindo bugs" src="github/img.png" width="100%">
 </p>
-
-<p align="justify">
-Topa encarar esse desafio e deixar o site mais acessível? 💜 <br>
-Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conceitos. 
-<br>
-<br>
-Lembrando: tente se desafiar e não olhar a resposta mas, caso apareça alguma dificuldade, você pode voltar nas aulas e rever a maneira com que foi desenvolvido!
-<br>
-<br>
-Para facilitar, vamos deixar o link do Figma aqui pra você.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
@@ -28,6 +13,9 @@ Para facilitar, vamos deixar o link do Figma aqui pra você.
 </p>
 <br>
 
+<p align="center">
+  <img alt="desafio corrigindo bugs" src="github/img.png" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
@@ -45,3 +33,4 @@ Você pode visualizar o layout desejado do desafio através [DESSE LINK] https:/
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
