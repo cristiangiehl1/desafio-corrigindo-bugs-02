@@ -14,7 +14,7 @@ O código sofreu algumas alterações nos principais pontos abordados nessa fase
 <br>
 
 <p align="center">
-  <img alt="desafio corrigindo bugs" src="/images/github/img.png" width="100%">
+  <img alt="desafio corrigindo bugs" src="github/img.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
